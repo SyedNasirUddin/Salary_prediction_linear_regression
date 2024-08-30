@@ -20,8 +20,16 @@ The dataset used is `salary_data.csv` located in the `data` directory. It contai
 1. Clone the repository:
    ```bash
    git clone https://github.com/SyedNasirUddin/Salary_prediction_linear_regression.git
+
    README.md
-   https://github.com/SyedNasirUddin/Salary_prediction_linear_regression/new/main?filename=README.md
+https://github.com/SyedNasirUddin/Salary_prediction_linear_regression/new/main?filename=README.md
+
+## License
+This project is licensed under the MIT License.
+
+## Contributing
+Feel free to fork the repository and submit pull requests. For any questions or suggestions, open an issue or contact the maintainer.
+
 
 
 
