@@ -24,7 +24,7 @@ The dataset used is `salary_data.csv` located in the `data` directory. It contai
    https://github.com/SyedNasirUddin/Salary_prediction_linear_regression/new/main?filename=README.md
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the @LICENSE file for details.
 Feel free to adjust the structure and content to fit your needs.
 
 
